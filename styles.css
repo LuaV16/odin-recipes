@@ -1,9 +1,20 @@
+
+
 h1 {
-    color: rgb(153, 153, 255);
+    color: rgb(102, 178, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(51, 51, 255)
+    padding: 5px;
+    text-align: center;
 }
+
+ul{
+    margin: auto;
+    padding: 40px; 
+    list-style-position: inside;
+}
+
